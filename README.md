@@ -8,6 +8,7 @@ Welcome to my Github Profile
 I'm is a 👨‍💻 __Beginner Programmer__<br>
 I'm is a 👨‍🏫 __Student__
 
+## Skills
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
@@ -27,6 +28,7 @@ I'm is a 👨‍🏫 __Student__
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" height="40" alt="nodejs logo"  />
 </div>
 
+## Contact me
 
 <div align="left">
   <a href="https://twitter.com/Jigongz_?s=90" target="_blank">
