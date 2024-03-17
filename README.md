@@ -1,12 +1,12 @@
-![Banner](./banner.jpg)
+<img src="./banner.jpg" style="border-radius:20px;">
 
 #  Jigongz Nage
 
 👋 Hello Everyone !!!<br>
 Welcome to my Github Profile
 
-I'm is a 👨‍💻 __Beginner Programmer__<br>
-I'm is a 👨‍🏫 __Student__
+I'm a 👨‍💻 __Beginner Programmer__<br>
+I'm a 👨‍🏫 __Student__
 
 ## Skills
 
